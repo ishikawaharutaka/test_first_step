@@ -5,4 +5,4 @@
 テストプロジェクトになります。<br>
 改行はどうするのでしょう？<br>
 <br>
-結果からすると、<span style='font-weight: bold;'>HTML形式で記述</span>できるのかな？
+結果からすると、<strong>HTML形式で記述</strong>できるのかな？
